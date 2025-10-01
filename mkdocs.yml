@@ -52,6 +52,7 @@ nav:
         - Orderflow: advanced-orderflow.md
         - Producer/Consumer mode: producer-consumer.md
         - SQL Cheat-sheet: sql_cheatsheet.md
+        - Internationalization (i18n): internationalization.md
     - FAQ: faq.md
     - Strategy migration: strategy_migration.md
     - Updating Freqtrade: updating.md

@@ -1,0 +1,230 @@
+# English translations for freqtrade.
+# Copyright (C) 2025 Freqtrade Team
+# This file is distributed under the same license as the freqtrade package.
+# Freqtrade Team <freqtrade@protonmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: freqtrade\n"
+"Report-Msgid-Bugs-To: freqtrade@protonmail.com\n"
+"POT-Creation-Date: 2025-09-19 12:00+0000\n"
+"PO-Revision-Date: 2025-09-19 12:00+0000\n"
+"Last-Translator: Freqtrade Team <freqtrade@protonmail.com>\n"
+"Language: en\n"
+"Language-Team: English <freqtrade@protonmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+# Common UI messages
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Configuration"
+msgstr "Configuration"
+
+# Trading related messages
+msgid "Trading Bot"
+msgstr "Trading Bot"
+
+msgid "Strategy"
+msgstr "Strategy"
+
+msgid "Backtest"
+msgstr "Backtest"
+
+msgid "Dry Run"
+msgstr "Dry Run"
+
+msgid "Live Trading"
+msgstr "Live Trading"
+
+msgid "Profit"
+msgstr "Profit"
+
+msgid "Loss"
+msgstr "Loss"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Trade"
+msgstr "Trade"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "Buy"
+msgstr "Buy"
+
+msgid "Sell"
+msgstr "Sell"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Pair"
+msgstr "Pair"
+
+msgid "Exchange"
+msgstr "Exchange"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Closed"
+msgstr "Closed"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+# Multi-user related messages
+msgid "User Management"
+msgstr "User Management"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "User"
+msgstr "User"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Profile"
+msgstr "Profile"
+
+# Status messages
+msgid "Multi-user system initialized successfully!"
+msgstr "Multi-user system initialized successfully!"
+
+msgid "Admin user created"
+msgstr "Admin user created"
+
+msgid "User already exists!"
+msgstr "User already exists!"
+
+msgid "You can now:"
+msgstr "You can now:"
+
+msgid "Start Freqtrade with multi-user mode enabled"
+msgstr "Start Freqtrade with multi-user mode enabled"
+
+msgid "Login with the admin credentials"
+msgstr "Login with the admin credentials"
+
+msgid "Create additional users via the API"
+msgstr "Create additional users via the API"
+
+# Error messages
+msgid "Invalid credentials"
+msgstr "Invalid credentials"
+
+msgid "User not found"
+msgstr "User not found"
+
+msgid "Access denied"
+msgstr "Access denied"
+
+msgid "Permission denied"
+msgstr "Permission denied"
+
+msgid "Invalid configuration"
+msgstr "Invalid configuration"
+
+msgid "Connection failed"
+msgstr "Connection failed"
+
+msgid "Server error"
+msgstr "Server error"
+
+msgid "Network error"
+msgstr "Network error"
+
+msgid "Timeout error"
+msgstr "Timeout error"
+
+# Worker messages
+msgid "Starting worker"
+msgstr "Starting worker"
+
+# Application name
+msgid "freqtrade"
+msgstr "freqtrade"
